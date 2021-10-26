@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭  I’m currently working on [Market Kurly](https://www.kurly.com)
+- 🔭  I’m currently working on [Market Kurly](https://helloworld.kurly.com/)
 
 <br>
 

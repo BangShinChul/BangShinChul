@@ -2,7 +2,7 @@
 
 <br>
 
-I’m working as a Cloud Engineer, DevOps Engineer, Software Developer.
+I’m working as an Associate Solutions Architect at Amazon Web Services in Korea.
 
 <br>
 

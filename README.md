@@ -6,8 +6,7 @@ I’m working as an Associate Solutions Architect at Amazon Web Services in Kore
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangshinchul&count_private=true&show_icons=true&theme=tokyonight)
-
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bangshinchul&count_private=true&show_icons=true&theme=tokyonight)
 <br>
 
 <h3 align="left">Connect with me:</h3>
